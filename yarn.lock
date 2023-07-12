@@ -1061,6 +1061,7 @@ __metadata:
     "@typescript-eslint/eslint-plugin": ^5.61.0
     "@typescript-eslint/parser": ^5.61.0
     "@vitejs/plugin-react": ^4.0.1
+    clean-fetch: ^0.0.1
     eslint: ^8.44.0
     eslint-plugin-react-hooks: ^4.6.0
     eslint-plugin-react-refresh: ^0.4.1
@@ -1070,6 +1071,15 @@ __metadata:
     vite: ^4.4.0
   languageName: unknown
   linkType: soft
+
+"clean-fetch@npm:^0.0.1":
+  version: 0.0.1
+  resolution: "clean-fetch@npm:0.0.1"
+  peerDependencies:
+    react: "*"
+  checksum: bb72da01310c23a725e13e1fefa15658af0f197737ef826559dc67c24bc6ce78f380e64a83ada9dbb04bb4caf072fb9f3d7901735643e1c82d348ef9f824a142
+  languageName: node
+  linkType: hard
 
 "clean-stack@npm:^2.0.0":
   version: 2.2.0
